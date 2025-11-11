@@ -1,7 +1,7 @@
 # PolygonBuilder
 
 A fast, allocation-free contour extraction and polygon generation utility for 2D tile grids.  
-Turns a solid tilemap into clean, simplified collision polygons at runtime with **zero per-polygon heap allocations**.
+Turns a solid tilemap into clean, simplified polygons at runtime with **zero per-polygon heap allocations**.
 
 ![example](docs/example.png)
 
